@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Menu\menu.cs">
+    <Files>
+      <File FileName="Assets\scripts\player2script.cs" Line="14" Column="3" />
+      <File FileName="Assets\ai.cs" Line="21" Column="6" />
+      <File FileName="Assets\scripts\ballScript.cs" Line="69" Column="6" />
+      <File FileName="Assets\scripts\playerMove.cs" Line="32" Column="46" />
+      <File FileName="Assets\scripts\ballPass.cs" Line="38" Column="21" />
+      <File FileName="Assets\scripts\scoreScript.cs" Line="26" Column="15" />
+      <File FileName="Assets\Tile.cs" Line="37" Column="87" />
+      <File FileName="Assets\scripts\Menu\menu.cs" Line="44" Column="37" />
+      <File FileName="Assets\scripts\Tutorial\Tutorial.cs" Line="7" Column="22" />
+      <File FileName="Assets\scripts\Credits\credits.cs" Line="25" Column="3" />
+      <File FileName="Assets\scripts\passMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Createfield.cs" Line="11" Column="5" />
+      <File FileName="Assets\scripts\cubeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\soundtoggle.cs" Line="20" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
