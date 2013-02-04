@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>acorn.png</Source>
+      <Name>acorn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\acorn.xnb</Output>
+      <Time>2012-03-08T09:25:56.4277499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>action1.png</Source>
+      <Name>action1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\action1.xnb</Output>
+      <Time>2012-03-08T09:25:56.4277499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>action2.png</Source>
+      <Name>action2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\action2.xnb</Output>
+      <Time>2012-03-08T09:25:56.49015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>action3.png</Source>
+      <Name>action3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\action3.xnb</Output>
+      <Time>2012-03-08T09:25:56.49015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>action4.png</Source>
+      <Name>action4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\action4.xnb</Output>
+      <Time>2012-03-08T09:25:56.49015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>actions.png</Source>
+      <Name>actions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\actions.xnb</Output>
+      <Time>2012-03-08T09:25:56.50575-05:00</Time>
+    </Item>
+    <Item>
+      <Source>baby.png</Source>
+      <Name>baby</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\baby.xnb</Output>
+      <Time>2012-03-08T09:25:56.50575-05:00</Time>
+    </Item>
+    <Item>
+      <Source>babyD.png</Source>
+      <Name>babyD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\babyD.xnb</Output>
+      <Time>2012-03-08T09:25:56.50575-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backyard.png</Source>
+      <Name>backyard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\backyard.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bear.png</Source>
+      <Name>bear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\bear.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bearHouse.png</Source>
+      <Name>bearHouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\bearHouse.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bear_Boss.png</Source>
+      <Name>bear_Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\bear_Boss.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>castle.png</Source>
+      <Name>castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\castle.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>crack.png</Source>
+      <Name>crack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\crack.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>endscreen.png</Source>
+      <Name>endscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\endscreen.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>evilBear.png</Source>
+      <Name>evilBear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\evilBear.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>evilBearD.png</Source>
+      <Name>evilBearD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\evilBearD.xnb</Output>
+      <Time>2012-03-08T09:25:56.52135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2012-03-08T09:25:56.53695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>garbage.png</Source>
+      <Name>garbage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\garbage.xnb</Output>
+      <Time>2012-03-08T09:25:56.53695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>heart.png</Source>
+      <Name>heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\heart.xnb</Output>
+      <Time>2012-03-08T09:25:56.5993502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>house.png</Source>
+      <Name>house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\house.xnb</Output>
+      <Time>2012-03-08T09:25:56.5993502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>milk.png</Source>
+      <Name>milk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\milk.xnb</Output>
+      <Time>2012-03-08T09:25:56.5993502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2012-03-08T09:25:56.6149502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>punch.png</Source>
+      <Name>punch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\punch.xnb</Output>
+      <Time>2012-03-08T09:25:56.6149502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>roar.png</Source>
+      <Name>roar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\roar.xnb</Output>
+      <Time>2012-03-08T09:25:56.6149502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>roar2.png</Source>
+      <Name>roar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\roar2.xnb</Output>
+      <Time>2012-03-08T09:25:56.6149502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shock.png</Source>
+      <Name>shock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\shock.xnb</Output>
+      <Time>2012-03-08T09:25:56.6305502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2012-03-08T09:25:56.6305502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>stump.png</Source>
+      <Name>stump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\stump.xnb</Output>
+      <Time>2012-03-08T09:25:56.6305502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tear.png</Source>
+      <Name>tear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\tear.xnb</Output>
+      <Time>2012-03-08T09:25:56.6461502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>toaster.png</Source>
+      <Name>toaster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\toaster.xnb</Output>
+      <Time>2012-03-08T09:25:56.6461502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trex.png</Source>
+      <Name>trex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\trex.xnb</Output>
+      <Time>2012-03-08T09:25:56.6461502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trexD.png</Source>
+      <Name>trexD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\trexD.xnb</Output>
+      <Time>2012-03-08T09:25:56.6461502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Untitled.png</Source>
+      <Name>Untitled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\Untitled.xnb</Output>
+      <Time>2012-03-08T09:25:56.6617503-05:00</Time>
+    </Item>
+    <Item>
+      <Source>vomit.png</Source>
+      <Name>vomit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\vomit.xnb</Output>
+      <Time>2012-03-08T09:25:56.6617503-05:00</Time>
+    </Item>
+    <Item>
+      <Source>song.mp3</Source>
+      <Name>song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\song.xnb</Output>
+      <Extra>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\song.wma</Extra>
+      <Time>2012-03-08T09:25:56.6305502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2012-03-08T09:25:56.5993502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tips.spritefont</Source>
+      <Name>tips</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\tips.xnb</Output>
+      <Time>2012-03-08T09:25:56.6461502-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expressoContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expressoContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sam\Documents\Visual Studio 2010\Projects\expresso\expresso\expresso\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-22T14:54:03.8775295-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
